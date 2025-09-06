@@ -1,6 +1,6 @@
 # Project Title: Diabetes Prediction Project
 
-# Discription:
+# Description:
 
 A simple machine learning project to predict diabetes using a Random Forest Classifier on medical data.
 
@@ -11,7 +11,7 @@ A simple machine learning project to predict diabetes using a Random Forest Clas
 2. Load data
 3. Preprocess
 4. Split Data (80% for training and 20% for testing)
-5. Train Model(RandomForestClassifier)
+5. Train Model (Random Forest Classifier)
 6. Evaluate
 
 
